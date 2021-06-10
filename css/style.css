@@ -1,44 +1,47 @@
+
+
 .sec1 {
-    background-image: url("../img/rt1.jpg");
+    background-image: url("https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cm9hZCUyMHRyaXB8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
     background-repeat: no-repeat;
-    background-size: 100%;
-    background-attachment:cover;
+    background-size: cover;
     background-position: center;
-    min-height: 100vh;  
+    background-attachment: fixed;
+    min-height: 100vh;
+    font-family: 'Lobster', cursive;  
 }
 
 .sec2 {
-    background-image: url("../img/rt2.jpg");
+    background-image: url("https://images.unsplash.com/photo-1607867086119-b6fe028fa3a1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHZvbGtzd2FnZW4lMjByb2FkJTIwdHJpcHxlbnwwfDB8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
     background-repeat: no-repeat;
-    background-size: 100%;
-    background-attachment: cover;
+    background-size: cover;
     background-position: center;
     min-height: 100vh;
+    background-attachment: fixed;
 }
 
 .sec3 {
-    background-image: url("../img/rt3.jpg");
+    background-image: url("https://images.unsplash.com/photo-1494822493217-c9840aba840c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cm9hZCUyMHRyaXB8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
     background-repeat: no-repeat;
-    background-size: 100%;
-    background-attachment: cover;
+    background-size: cover;
+    background-attachment: fixed;
     background-position: center;
     min-height: 100vh;
 }
 
 .sec4 {
-    background-image: url("../img/rt4.jpg");
+    background-image: url("https://images.unsplash.com/photo-1594568284297-7c64464062b1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHJvYWQlMjB0cmlwfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
     background-repeat: no-repeat;
-    background-size: 100%;
-    background-attachment: cover;
+    background-size: cover;
+    background-attachment: fixed;
     background-position: center;
     min-height: 100vh;
 }
 
 .sec5 {
-    background-image: url("../img/rt5.jpg");
+    background-image: url("https://images.unsplash.com/photo-1526512340740-9217d0159da9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fHJvYWQlMjB0cmlwfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
     background-repeat: no-repeat;
-    background-size: 100%;
-    background-attachment: cover;
+    background-size: cover;
+    background-attachment: fixed;
     background-position: center;
     min-height: 100vh;
 }
@@ -55,3 +58,9 @@
     color: seashell;
     padding: 10%;
 }
+
+.tranparent:hover {
+    background-color: rgba(131, 131, 131, 0.685);
+}
+
+
