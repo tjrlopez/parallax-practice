@@ -46,11 +46,12 @@
     min-height: 100vh;
 }
 
-.sec6{
+#section6 {
     display: flex;
     flex-direction: row;
     justify-content: center;
     text-align: center;
+    background-color: rgb(245,71,70);
 }
 
 .text-box {
@@ -62,5 +63,17 @@
 .tranparent:hover {
     background-color: rgba(131, 131, 131, 0.685);
 }
+
+.custom-box {
+    margin-top: 25%;
+    color:seashell;
+}
+
+.icon {
+    
+    border-radius: 50%;
+
+}
+
 
 
